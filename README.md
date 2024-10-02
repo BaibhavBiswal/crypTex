@@ -1,0 +1,2 @@
+# crypTex
+Crypto trading website
